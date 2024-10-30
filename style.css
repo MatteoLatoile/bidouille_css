@@ -1,0 +1,26 @@
+h1{
+    background-color: black;
+}
+
+
+.vert{
+    color: green;
+}
+.grostexte{
+    font-size: 89px;
+}
+.backgroundPink{
+    background-color: pink;
+}
+.bouton{
+    background-color: orange;
+    font-size: 30px; /* taille de la police */
+    color: rgb(25, 255, 255); /* couleur du texte*/
+    text-decoration: none; /* j'enleve le petit soulignement */
+    border-radius: 10px; /* je cree un arondi a mon bouton */
+    padding: 10px 40px 10px 40px;  /* marge interieur du bloc */
+    border: 4px solid red; /* gestion de la bordure : epaisseur, type de ligne et couleur */
+}
+.textcenter{
+    text-align: center; /* centre le texte */
+}
